@@ -5,10 +5,12 @@ verify_ssl = true
 
 [dev-packages]
 pylint = "*"
+autopep8 = "*"
 
 [packages]
 boto3 = "*"
 ipython = "*"
+click = "*"
 
 [requires]
 python_version = "3.7"
